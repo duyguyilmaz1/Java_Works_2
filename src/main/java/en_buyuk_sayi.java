@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class deneme {
+public class en_buyuk_sayi {
     public static void main(String[] args) {
 
     Scanner scanner = new Scanner(System.in);
