@@ -1,3 +1,5 @@
+package calisanlar;
+
 import java.util.Scanner;
 
 public class Main {

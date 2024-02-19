@@ -1,4 +1,8 @@
-public class Yazilimci extends Calisanlar{
+package calisanlar;
+
+import calisanlar.Calisanlar;
+
+public class Yazilimci extends Calisanlar {
     private String diller;
     public Yazilimci(String ad, String soyad, int id, String diller) {
         super(ad, soyad, id);

@@ -1,3 +1,5 @@
+package calisanlar;
+
 public class Calisanlar {
 
     private String ad;

@@ -1,3 +1,7 @@
+package calisanlar;
+
+import calisanlar.Calisanlar;
+
 public class Yonetici extends Calisanlar {
 
     private int sorumlu_kisi_sayisi;
